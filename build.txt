@@ -1,4 +1,4 @@
 displayName = More Bullets
 author = flora madonna
-version = 0.1
+version = 0.2
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
