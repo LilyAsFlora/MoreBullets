@@ -1,0 +1,17 @@
+Development in progress!
+
+[c/FF77AA:More Bullets] adds over 10 unique pre-hardmode and hardmode bullets, implementing new ways to approach a ranger playthrough.
+It consists of recipes, shops, a special buff, and an exclusive developer vanity set.
+
+Added ammo includes:
+	- [c/FFFFFF:Ghost Bullet]
+	- [c/FF55B4:Lifesteal Shot]
+	- [c/8888FF:Celestial Strike]
+
+...and more.
+
+v0.1
+====
+	- Released.
+
+[c/FF99CC:Made with <3 by Lily.]
